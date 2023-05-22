@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Poppy Playtime Chapter 2, the highly anticipated sequel to the original indie horror game, takes players on a chilling and suspenseful adventure.","photo2":"https://iili.io/HgSRdjj.jpg"},
+  {"desc3":" Developed by Mortem Studios, the game immerses players in a dark and eerie toy factory filled with mysteries and dangers","photo3":"https://iili.io/HgSR9yu.webp"},
+  {"desc4":" In this article, we will delve into the gameplay, story, and key features of Poppy Playtime Chapter 2","photo4":"https://iili.io/HgSRJTb.jpg"},
+  {"desc5":"Poppy Playtime Chapter 2 maintains the same first-person perspective as its predecessor, allowing players to navigate the haunted toy factory as a nameless protagonist. ","photo5":"https://iili.io/HgSRFCQ.jpg"},
+  {"descd":"game combines elements of exploration, puzzle-solving, and horror to create an immersive gameplay experience.","photod":"https://iili.io/HgSCZwN.jpg"}
    ]
  
 }
